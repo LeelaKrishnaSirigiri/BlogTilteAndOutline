@@ -1,6 +1,6 @@
 # Live Demo
 
-🔗 Live Application: [Click Here](https://your-streamlit-app-link.streamlit.app)
+🔗 Live Application: [Click Here](https://huggingface.co/spaces/leelakrishna1133/BlogTopicAndOutline)
 
 
 # Blog Topic & Outline Generator
